@@ -4,7 +4,7 @@
 
 Built for AI agents — OpenClaw, Claude Code, Codex, Hermes, and any framework that supports tool/function calling.
 
-[![PyPI](https://img.shields.io/pypi/v/ultra-scraper)](https://pypi.org/project/ultra-scraper/)
+[![Version](https://img.shields.io/badge/version-0.2.0-blue)](https://github.com/LeoYeAI/ultra-scraper/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-purple)](https://myclaw.ai)
 
