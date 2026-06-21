@@ -8,6 +8,8 @@ Built for AI agents — OpenClaw, Claude Code, Codex, Hermes, and any framework 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-purple)](https://myclaw.ai)
 
+🌐 **English** · [中文](docs/README.zh-CN.md) · [Français](docs/README.fr.md) · [Deutsch](docs/README.de.md) · [Русский](docs/README.ru.md) · [日本語](docs/README.ja.md) · [Italiano](docs/README.it.md) · [Español](docs/README.es.md) · [한국어](docs/README.ko.md)
+
 ---
 
 ## Why ultra-scraper?
@@ -187,6 +189,19 @@ All tiers return the same dict:
 | Anthropic | `get_anthropic_tools()` | [examples/anthropic/](examples/anthropic/) |
 | LangChain | `get_langchain_tools()` | [examples/langchain/](examples/langchain/) |
 | Any other | `get_tool_schema()` | Raw dict schema |
+
+---
+
+## About MyClaw.ai
+
+ultra-scraper is built and maintained by **[MyClaw.ai](https://myclaw.ai)** — the #1 AI Agent Hosting Platform.
+
+MyClaw gives every user a **full Linux server** running [OpenClaw](https://github.com/openclaw/openclaw) — the open-source AI agent runtime. Not a chatbot, not an API wrapper — a real agent with complete code control, unrestricted internet access, scheduled tasks, persistent memory, and a skill ecosystem with **1200+ community skills**.
+
+- 🖥️ A full server, not a sandbox · 🌐 Unrestricted internet · ⏰ 24/7 background tasks · 📁 Persistent filesystem
+- One-click deploy · Zero DevOps · 30-second setup · 200+ models · 15+ message channels
+
+**[→ Get your AI agent at myclaw.ai](https://myclaw.ai)**
 
 ---
 
